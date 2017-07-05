@@ -56,19 +56,24 @@ Each group has an assigned teaching team member who will act as your client and 
 
 #### Team \#1 
 * TODO: STUDENT
+* TODO: STUDENT  
 * TODO: STUDENT
 
+
 #### Team \#2 
+* TODO: STUDENT
 * TODO: STUDENT
 * TODO: STUDENT
 
 #### Team \#3 
 * TODO: STUDENT
 * TODO: STUDENT
+* TODO: STUDENT
+* TODO: STUDENT
 
 ## Presentation
 
-Each group will present their project on **TODO: WEEKDAY, MONTH DAY** starting at **TODO: TIME** for 10 minutes.
+Each group will present their project on **Tuesday, July 11th** starting at **11:30am** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
